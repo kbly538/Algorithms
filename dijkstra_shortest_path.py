@@ -1,4 +1,3 @@
-# returns vertices and graph
 class Dijkstra:
 
     def __init__(self, data):
